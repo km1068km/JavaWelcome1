@@ -18,7 +18,7 @@ public class Addition {
         number2 = input.nextInt();
 
         sum = number1 + number2;
-K
+
         System.out.printf("Sum is %d%n", sum);
 
 
